@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-cayman
 baseurl: "/"
 title: "Azimuth"
 init_js: "js/init.js"
